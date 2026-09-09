@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "52189474018",
+    "firebase_url": "https://microgreen-ebe72-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "microgreen-ebe72",
+    "storage_bucket": "microgreen-ebe72.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52189474018:android:dfa4eb3bb8ca1f0c7b82bb",
+        "android_client_info": {
+          "package_name": "com.example.microgreen_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA5oFxF6d4zdtFhTzkRgpBjVfAq6eqfII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
